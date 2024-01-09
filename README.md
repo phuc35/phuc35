@@ -1,16 +1,24 @@
-### Hi there 👋
+Hi there 👋 I'm Phuc Nguyen 🇻🇳
 
-<!--
-**phuc35/phuc35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My local server:
 
-Here are some ideas to get you started:
+Chip: 2x Xeon E5 2686v4
+Mainboard: Huananzhi x99 F8D plus
+Ram: 256GB ECC DDR4
+VGA: No
+NVMe: Samsung 970 Evo 2TB x3
+PSU: 650W 80gold
+Wan: 1Gbps*2
+My node:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Muon network
+Shardeum
+Arkeo network
+Avail project
+Entangle protocol
+Fleek network
+Mantra Chain
+Subsquid
+Subspace network
+Erbie network
+Elixir
