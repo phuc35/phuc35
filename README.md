@@ -1,6 +1,6 @@
 Hi there 👋 I'm Phuc Nguyen 🇻🇳        
                                                                       
-My local server:                             
+My local server:                              
                     
 Chip: 2x Xeon E5 2686v4           
  
